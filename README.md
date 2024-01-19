@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-### Engineering Major
+### (Engineering Major)
 
 - ⚡ Fun fact: I am a drummer...
 -->
